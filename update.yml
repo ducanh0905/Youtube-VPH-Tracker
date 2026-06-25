@@ -1,0 +1,36 @@
+name: Update YouTube stats
+
+on:
+  schedule:
+    - cron: '0 * * * *' # mỗi giờ, vào phút 0 (theo giờ UTC)
+  workflow_dispatch: {} # cho phép bấm "Run workflow" để chạy ngay (thủ công) trên GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yt-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run update script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/update.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Auto-update YouTube stats [skip ci]"
+          git push
