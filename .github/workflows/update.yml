@@ -2,7 +2,7 @@ name: Update YouTube stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # mỗi giờ, vào phút 0 (theo giờ UTC)
+    - cron: '7 * * * *' # mỗi giờ, vào phút 7 (lệch khỏi phút 0 — thời điểm tải cao nhất của GitHub Actions, dễ bị delay/skip)
   workflow_dispatch: {} # cho phép bấm "Run workflow" để chạy ngay (thủ công) trên GitHub
 
 permissions:
