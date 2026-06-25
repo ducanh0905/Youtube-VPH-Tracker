@@ -85,6 +85,9 @@ async function resolveChannel(parsed) {
     thumbnail: item.snippet.thumbnails?.default?.url || '',
     uploadsPlaylistId: item.contentDetails.relatedPlaylists.uploads,
     videoCount: Number(item.statistics?.videoCount || 0),
+    // Một số kênh ẩn số subscriber (hiddenSubscriberCount: true) — khi đó YouTube trả về 0,
+    // ta giữ subscriberCount = null để trang web biết hiển thị "ẩn" thay vì "0".
+    subscriberCount: item.statistics?.hiddenSubscriberCount ? null : Number(item.statistics?.subscriberCount || 0),
   };
 }
 
@@ -122,9 +125,20 @@ async function attachViewCounts(items) {
   for (const chunk of chunks) {
     const ids = chunk.map((v) => v.id).join(',');
     const data = await apiGet('/videos', { part: 'statistics', id: ids });
-    (data.items || []).forEach((it) => { byId[it.id] = Number(it.statistics?.viewCount || 0); });
+    (data.items || []).forEach((it) => {
+      byId[it.id] = {
+        views: Number(it.statistics?.viewCount || 0),
+        // Một số video ẩn lượt like (likeCount không có trong response) — khi đó để null
+        // để trang web hiển thị "ẩn" thay vì "0".
+        likes: it.statistics?.likeCount != null ? Number(it.statistics.likeCount) : null,
+      };
+    });
   }
-  items.forEach((v) => { v.views = byId[v.id] ?? 0; });
+  items.forEach((v) => {
+    const s = byId[v.id] || {};
+    v.views = s.views ?? 0;
+    v.likes = s.likes ?? null;
+  });
   return items;
 }
 
