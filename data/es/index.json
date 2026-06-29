@@ -1,7 +1,7 @@
 {
   "market": "es",
   "label": "Tây Ban Nha",
-  "updatedAt": "2026-06-29T12:50:44.785Z",
+  "updatedAt": "2026-06-29T19:25:50.601Z",
   "channels": [
     {
       "channelId": "UC0KbVo6yXvWM_oAzFaCMvGA",
@@ -10,7 +10,7 @@
       "uploadsPlaylistId": "UU0KbVo6yXvWM_oAzFaCMvGA",
       "videoCount": 132,
       "subscriberCount": 91300,
-      "lastUpdated": "2026-06-29T12:50:36.907Z"
+      "lastUpdated": "2026-06-29T19:25:44.649Z"
     },
     {
       "channelId": "UCkahPG8Q74lChyvnk7gt2Cw",
@@ -19,7 +19,7 @@
       "uploadsPlaylistId": "UUkahPG8Q74lChyvnk7gt2Cw",
       "videoCount": 159,
       "subscriberCount": 43900,
-      "lastUpdated": "2026-06-29T12:50:38.034Z"
+      "lastUpdated": "2026-06-29T19:25:45.317Z"
     },
     {
       "channelId": "UCpMvM-kGqhjEHQ9wqOMs2pQ",
@@ -28,7 +28,7 @@
       "uploadsPlaylistId": "UUpMvM-kGqhjEHQ9wqOMs2pQ",
       "videoCount": 157,
       "subscriberCount": 54800,
-      "lastUpdated": "2026-06-29T12:50:39.352Z"
+      "lastUpdated": "2026-06-29T19:25:46.051Z"
     },
     {
       "channelId": "UCLWbXoIfTu5E8HYF4XtDv-Q",
@@ -36,8 +36,8 @@
       "thumbnail": "https://yt3.ggpht.com/SQBP776833gvZEn-0vWO8T4RLP0d8P7qDiHoBdsY8VcZRc1ZJiNMWOojabygkeFJmTlDqzTGFA=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UULWbXoIfTu5E8HYF4XtDv-Q",
       "videoCount": 23,
-      "subscriberCount": 3550,
-      "lastUpdated": "2026-06-29T12:50:39.694Z"
+      "subscriberCount": 3570,
+      "lastUpdated": "2026-06-29T19:25:46.276Z"
     },
     {
       "channelId": "UCQwpgvltYeWvlj3PbHkW2mQ",
@@ -46,16 +46,16 @@
       "uploadsPlaylistId": "UUQwpgvltYeWvlj3PbHkW2mQ",
       "videoCount": 250,
       "subscriberCount": 439000,
-      "lastUpdated": "2026-06-29T12:50:41.198Z"
+      "lastUpdated": "2026-06-29T19:25:47.334Z"
     },
     {
       "channelId": "UCNhLUa5wz4ZMnttv_bZHNzQ",
       "title": "WONDERGLOBE-ES",
       "thumbnail": "https://yt3.ggpht.com/YBQKtnTuHciYUwGprBaxi4RI4_GKuVw2tPGAWiM3lxvcTNENWCK-EUToaCrP0I6s_5y-qXZ9Rg=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UUNhLUa5wz4ZMnttv_bZHNzQ",
-      "videoCount": 231,
+      "videoCount": 232,
       "subscriberCount": 14100,
-      "lastUpdated": "2026-06-29T12:50:42.872Z"
+      "lastUpdated": "2026-06-29T19:25:49.121Z"
     },
     {
       "channelId": "UC_nDm9FNhcv0LBYZIJmawOQ",
@@ -64,7 +64,7 @@
       "uploadsPlaylistId": "UU_nDm9FNhcv0LBYZIJmawOQ",
       "videoCount": 217,
       "subscriberCount": 43200,
-      "lastUpdated": "2026-06-29T12:50:44.393Z"
+      "lastUpdated": "2026-06-29T19:25:50.283Z"
     },
     {
       "channelId": "UCQFzik5TTOq8wXg6L3J-EsA",
@@ -73,7 +73,7 @@
       "uploadsPlaylistId": "UUQFzik5TTOq8wXg6L3J-EsA",
       "videoCount": 24,
       "subscriberCount": 4520,
-      "lastUpdated": "2026-06-29T12:50:44.783Z"
+      "lastUpdated": "2026-06-29T19:25:50.600Z"
     }
   ]
 }
