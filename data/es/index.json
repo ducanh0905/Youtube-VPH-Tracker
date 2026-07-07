@@ -1,7 +1,7 @@
 {
   "market": "es",
   "label": "Tây Ban Nha",
-  "updatedAt": "2026-07-07T11:24:26.694Z",
+  "updatedAt": "2026-07-07T19:17:52.986Z",
   "channels": [
     {
       "channelId": "UC0KbVo6yXvWM_oAzFaCMvGA",
@@ -10,16 +10,16 @@
       "uploadsPlaylistId": "UU0KbVo6yXvWM_oAzFaCMvGA",
       "videoCount": 133,
       "subscriberCount": 92000,
-      "lastUpdated": "2026-07-07T11:24:20.119Z"
+      "lastUpdated": "2026-07-07T19:17:46.550Z"
     },
     {
       "channelId": "UCkahPG8Q74lChyvnk7gt2Cw",
       "title": "Calle Sin Retorno",
       "thumbnail": "https://yt3.ggpht.com/4FbFllohjKvD1fVfb_shi6rUSn20qt7_wp3prFKm9HfILGA2vh3qAh7LHAdFdr5YelLz9SkJ=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UUkahPG8Q74lChyvnk7gt2Cw",
-      "videoCount": 156,
-      "subscriberCount": 44500,
-      "lastUpdated": "2026-07-07T11:24:21.307Z"
+      "videoCount": 157,
+      "subscriberCount": 44600,
+      "lastUpdated": "2026-07-07T19:17:47.363Z"
     },
     {
       "channelId": "UCpMvM-kGqhjEHQ9wqOMs2pQ",
@@ -28,16 +28,16 @@
       "uploadsPlaylistId": "UUpMvM-kGqhjEHQ9wqOMs2pQ",
       "videoCount": 159,
       "subscriberCount": 55200,
-      "lastUpdated": "2026-07-07T11:24:22.313Z"
+      "lastUpdated": "2026-07-07T19:17:48.285Z"
     },
     {
       "channelId": "UCLWbXoIfTu5E8HYF4XtDv-Q",
       "title": "Real Life Country",
       "thumbnail": "https://yt3.ggpht.com/SQBP776833gvZEn-0vWO8T4RLP0d8P7qDiHoBdsY8VcZRc1ZJiNMWOojabygkeFJmTlDqzTGFA=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UULWbXoIfTu5E8HYF4XtDv-Q",
-      "videoCount": 30,
-      "subscriberCount": 5810,
-      "lastUpdated": "2026-07-07T11:24:22.629Z"
+      "videoCount": 31,
+      "subscriberCount": 5830,
+      "lastUpdated": "2026-07-07T19:17:48.641Z"
     },
     {
       "channelId": "UCQwpgvltYeWvlj3PbHkW2mQ",
@@ -46,25 +46,25 @@
       "uploadsPlaylistId": "UUQwpgvltYeWvlj3PbHkW2mQ",
       "videoCount": 248,
       "subscriberCount": 447000,
-      "lastUpdated": "2026-07-07T11:24:23.698Z"
+      "lastUpdated": "2026-07-07T19:17:49.886Z"
     },
     {
       "channelId": "UCNhLUa5wz4ZMnttv_bZHNzQ",
       "title": "WONDERGLOBE-ES",
       "thumbnail": "https://yt3.ggpht.com/YBQKtnTuHciYUwGprBaxi4RI4_GKuVw2tPGAWiM3lxvcTNENWCK-EUToaCrP0I6s_5y-qXZ9Rg=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UUNhLUa5wz4ZMnttv_bZHNzQ",
-      "videoCount": 240,
+      "videoCount": 241,
       "subscriberCount": 14100,
-      "lastUpdated": "2026-07-07T11:24:25.214Z"
+      "lastUpdated": "2026-07-07T19:17:51.228Z"
     },
     {
       "channelId": "UC_nDm9FNhcv0LBYZIJmawOQ",
       "title": "Minuto en Foco - Es",
       "thumbnail": "https://yt3.ggpht.com/JrBexDQaB1Y-Mm3SD78_H8CjAAjkNa8W00NFmWTihVggylajGElsQLadWE866EUivqbAwbSM=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UU_nDm9FNhcv0LBYZIJmawOQ",
-      "videoCount": 219,
+      "videoCount": 220,
       "subscriberCount": 43200,
-      "lastUpdated": "2026-07-07T11:24:26.335Z"
+      "lastUpdated": "2026-07-07T19:17:52.724Z"
     },
     {
       "channelId": "UCQFzik5TTOq8wXg6L3J-EsA",
@@ -73,7 +73,7 @@
       "uploadsPlaylistId": "UUQFzik5TTOq8wXg6L3J-EsA",
       "videoCount": 24,
       "subscriberCount": 4520,
-      "lastUpdated": "2026-07-07T11:24:26.693Z"
+      "lastUpdated": "2026-07-07T19:17:52.985Z"
     }
   ]
 }
