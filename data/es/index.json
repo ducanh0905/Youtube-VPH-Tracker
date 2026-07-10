@@ -1,7 +1,7 @@
 {
   "market": "es",
   "label": "Tây Ban Nha",
-  "updatedAt": "2026-07-10T17:30:44.244Z",
+  "updatedAt": "2026-07-10T21:40:15.954Z",
   "channels": [
     {
       "channelId": "UC0KbVo6yXvWM_oAzFaCMvGA",
@@ -10,7 +10,7 @@
       "uploadsPlaylistId": "UU0KbVo6yXvWM_oAzFaCMvGA",
       "videoCount": 133,
       "subscriberCount": 92100,
-      "lastUpdated": "2026-07-10T17:30:36.412Z"
+      "lastUpdated": "2026-07-10T21:40:09.537Z"
     },
     {
       "channelId": "UCkahPG8Q74lChyvnk7gt2Cw",
@@ -19,7 +19,7 @@
       "uploadsPlaylistId": "UUkahPG8Q74lChyvnk7gt2Cw",
       "videoCount": 158,
       "subscriberCount": 44900,
-      "lastUpdated": "2026-07-10T17:30:37.441Z"
+      "lastUpdated": "2026-07-10T21:40:10.521Z"
     },
     {
       "channelId": "UCpMvM-kGqhjEHQ9wqOMs2pQ",
@@ -28,7 +28,7 @@
       "uploadsPlaylistId": "UUpMvM-kGqhjEHQ9wqOMs2pQ",
       "videoCount": 160,
       "subscriberCount": 55400,
-      "lastUpdated": "2026-07-10T17:30:38.655Z"
+      "lastUpdated": "2026-07-10T21:40:11.399Z"
     },
     {
       "channelId": "UCLWbXoIfTu5E8HYF4XtDv-Q",
@@ -36,8 +36,8 @@
       "thumbnail": "https://yt3.ggpht.com/SQBP776833gvZEn-0vWO8T4RLP0d8P7qDiHoBdsY8VcZRc1ZJiNMWOojabygkeFJmTlDqzTGFA=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UULWbXoIfTu5E8HYF4XtDv-Q",
       "videoCount": 34,
-      "subscriberCount": 5970,
-      "lastUpdated": "2026-07-10T17:30:38.977Z"
+      "subscriberCount": 5980,
+      "lastUpdated": "2026-07-10T21:40:11.651Z"
     },
     {
       "channelId": "UCQwpgvltYeWvlj3PbHkW2mQ",
@@ -46,7 +46,7 @@
       "uploadsPlaylistId": "UUQwpgvltYeWvlj3PbHkW2mQ",
       "videoCount": 249,
       "subscriberCount": 449000,
-      "lastUpdated": "2026-07-10T17:30:40.376Z"
+      "lastUpdated": "2026-07-10T21:40:12.883Z"
     },
     {
       "channelId": "UCNhLUa5wz4ZMnttv_bZHNzQ",
@@ -55,16 +55,16 @@
       "uploadsPlaylistId": "UUNhLUa5wz4ZMnttv_bZHNzQ",
       "videoCount": 245,
       "subscriberCount": 14100,
-      "lastUpdated": "2026-07-10T17:30:42.205Z"
+      "lastUpdated": "2026-07-10T21:40:14.294Z"
     },
     {
       "channelId": "UC_nDm9FNhcv0LBYZIJmawOQ",
       "title": "Minuto en Foco - Es",
       "thumbnail": "https://yt3.ggpht.com/JrBexDQaB1Y-Mm3SD78_H8CjAAjkNa8W00NFmWTihVggylajGElsQLadWE866EUivqbAwbSM=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UU_nDm9FNhcv0LBYZIJmawOQ",
-      "videoCount": 220,
+      "videoCount": 221,
       "subscriberCount": 43200,
-      "lastUpdated": "2026-07-10T17:30:43.847Z"
+      "lastUpdated": "2026-07-10T21:40:15.594Z"
     },
     {
       "channelId": "UCQFzik5TTOq8wXg6L3J-EsA",
@@ -73,7 +73,7 @@
       "uploadsPlaylistId": "UUQFzik5TTOq8wXg6L3J-EsA",
       "videoCount": 24,
       "subscriberCount": 4520,
-      "lastUpdated": "2026-07-10T17:30:44.243Z"
+      "lastUpdated": "2026-07-10T21:40:15.953Z"
     }
   ]
 }
