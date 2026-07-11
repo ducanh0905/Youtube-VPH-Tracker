@@ -1,7 +1,7 @@
 {
   "market": "en",
   "label": "Tiếng Anh",
-  "updatedAt": "2026-07-11T10:45:42.996Z",
+  "updatedAt": "2026-07-11T14:38:05.977Z",
   "channels": [
     {
       "channelId": "UCV0j4t9mwDtp30aNH6-ojBA",
@@ -10,7 +10,16 @@
       "uploadsPlaylistId": "UUV0j4t9mwDtp30aNH6-ojBA",
       "videoCount": 18,
       "subscriberCount": 29,
-      "lastUpdated": "2026-07-11T10:45:37.821Z"
+      "lastUpdated": "2026-07-11T14:38:00.375Z"
+    },
+    {
+      "channelId": "UC-2_kfG4gZ8FwvwPv1yLgZQ",
+      "title": "Everyday Life Abroad",
+      "thumbnail": "https://yt3.ggpht.com/bHv36TuB83cSs00Ko2IOA9mU9xX5Vt3o47pzmx4b42wh05B0QLBVTPey1EYiEH3FdwhSt1aR8Q=s88-c-k-c0x00ffffff-no-rj",
+      "uploadsPlaylistId": "UU-2_kfG4gZ8FwvwPv1yLgZQ",
+      "videoCount": 22,
+      "subscriberCount": 164,
+      "lastUpdated": "2026-07-11T14:38:01.192Z"
     },
     {
       "channelId": "UCFsGgdoZALD77EOlsCMHZHw",
@@ -19,16 +28,7 @@
       "uploadsPlaylistId": "UUFsGgdoZALD77EOlsCMHZHw",
       "videoCount": 30,
       "subscriberCount": 9570,
-      "lastUpdated": "2026-07-11T10:45:38.540Z"
-    },
-    {
-      "channelId": "UCungW6ia0HZJ2dXjf9cwirw",
-      "title": "UnSeenDocumentary",
-      "thumbnail": "https://yt3.ggpht.com/3Tyoa4sCx9LlFKdwPfDUmT6mc-UKMmpbbcHkbgfToK5-CTN-96cR5WF8U6uRVHeN6pvsm78KhQ=s88-c-k-c0x00ffffff-no-rj",
-      "uploadsPlaylistId": "UUungW6ia0HZJ2dXjf9cwirw",
-      "videoCount": 3,
-      "subscriberCount": 5,
-      "lastUpdated": "2026-07-11T10:45:39.650Z"
+      "lastUpdated": "2026-07-11T14:38:01.619Z"
     },
     {
       "channelId": "UCLk4p1u1qS91N3B-scYYrgw",
@@ -36,8 +36,8 @@
       "thumbnail": "https://yt3.ggpht.com/T2v50f6Jyxr5W4Rgq36zJV5ZHEJoK26sCLPrt8u9s0ecJuedWFhcgw42MdyvKjOVmgzbVSm3Qw=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UULk4p1u1qS91N3B-scYYrgw",
       "videoCount": 34,
-      "subscriberCount": 10400,
-      "lastUpdated": "2026-07-11T10:45:40.714Z"
+      "subscriberCount": 10500,
+      "lastUpdated": "2026-07-11T14:38:03.614Z"
     },
     {
       "channelId": "UC2Dpv53qE8k4FdAh44EkAjA",
@@ -46,34 +46,34 @@
       "uploadsPlaylistId": "UU2Dpv53qE8k4FdAh44EkAjA",
       "videoCount": 23,
       "subscriberCount": 2510,
-      "lastUpdated": "2026-07-11T10:45:40.954Z"
+      "lastUpdated": "2026-07-11T14:38:03.909Z"
     },
     {
       "channelId": "UC8KL71Zo6-kLnLWkY0zQMIg",
       "title": "Global Country Explorer",
       "thumbnail": "https://yt3.ggpht.com/JxvEMfrKzkOEaPMoaN1Mv8cKA8EaC5jA2CTeNxogulbAWk_q2iYH6A9G9aH4Lc6o6pkrK-Q6pA=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UU8KL71Zo6-kLnLWkY0zQMIg",
-      "videoCount": 44,
-      "subscriberCount": 2100,
-      "lastUpdated": "2026-07-11T10:45:41.875Z"
+      "videoCount": 45,
+      "subscriberCount": 2110,
+      "lastUpdated": "2026-07-11T14:38:04.865Z"
     },
     {
       "channelId": "UCwGz-nNoYpXiUIxIDXgsPdQ",
       "title": "The Global Truth",
       "thumbnail": "https://yt3.ggpht.com/HjXWUE8utGk052NDqOHRFbwNysPCO6CBfCDF3hvEChSZHOOxuo3up8I4x-CuEK8tSnDQ0Ykq1w=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UUwGz-nNoYpXiUIxIDXgsPdQ",
-      "videoCount": 25,
-      "subscriberCount": 568,
-      "lastUpdated": "2026-07-11T10:45:42.165Z"
+      "videoCount": 26,
+      "subscriberCount": 569,
+      "lastUpdated": "2026-07-11T14:38:05.128Z"
     },
     {
       "channelId": "UC7Wp1HNhw2UPimYZ6thYU3A",
       "title": "Globe Discovery - NY",
       "thumbnail": "https://yt3.ggpht.com/JJBYg-Ol71Fe91U4gb7Vk7UFayfp0TLL95xOGZyra6gWFDzOOi0K07ao0ItEZGkED9ywY2g0=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UU7Wp1HNhw2UPimYZ6thYU3A",
-      "videoCount": 56,
-      "subscriberCount": 1090,
-      "lastUpdated": "2026-07-11T10:45:42.993Z"
+      "videoCount": 57,
+      "subscriberCount": 1100,
+      "lastUpdated": "2026-07-11T14:38:05.974Z"
     }
   ]
 }
