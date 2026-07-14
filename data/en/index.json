@@ -1,7 +1,7 @@
 {
   "market": "en",
   "label": "Tiếng Anh",
-  "updatedAt": "2026-07-14T12:01:07.415Z",
+  "updatedAt": "2026-07-14T16:45:40.536Z",
   "channels": [
     {
       "channelId": "UCV0j4t9mwDtp30aNH6-ojBA",
@@ -10,7 +10,7 @@
       "uploadsPlaylistId": "UUV0j4t9mwDtp30aNH6-ojBA",
       "videoCount": 18,
       "subscriberCount": 29,
-      "lastUpdated": "2026-07-14T12:01:01.905Z"
+      "lastUpdated": "2026-07-14T16:45:32.856Z"
     },
     {
       "channelId": "UC-2_kfG4gZ8FwvwPv1yLgZQ",
@@ -19,7 +19,7 @@
       "uploadsPlaylistId": "UU-2_kfG4gZ8FwvwPv1yLgZQ",
       "videoCount": 22,
       "subscriberCount": 164,
-      "lastUpdated": "2026-07-14T12:01:02.693Z"
+      "lastUpdated": "2026-07-14T16:45:33.677Z"
     },
     {
       "channelId": "UCFsGgdoZALD77EOlsCMHZHw",
@@ -28,7 +28,25 @@
       "uploadsPlaylistId": "UUFsGgdoZALD77EOlsCMHZHw",
       "videoCount": 31,
       "subscriberCount": 10400,
-      "lastUpdated": "2026-07-14T12:01:03.136Z"
+      "lastUpdated": "2026-07-14T16:45:34.022Z"
+    },
+    {
+      "channelId": "UCikmhtEWMKMKHeMrMmxaW2w",
+      "title": "UnseenDocumentary",
+      "thumbnail": "https://yt3.ggpht.com/83etn7liKbtfTPcf71mUbvV9E4LjceZg5d-VRYRqxSofQYa-eBR45CgbS_uU7bmOSCqW4rSM=s88-c-k-c0x00ffffff-no-rj",
+      "uploadsPlaylistId": "UUikmhtEWMKMKHeMrMmxaW2w",
+      "videoCount": 72,
+      "subscriberCount": 107,
+      "lastUpdated": "2026-07-14T16:45:35.519Z"
+    },
+    {
+      "channelId": "UClm9eE1cp0PYQxv7wVl6q6A",
+      "title": "Globe Explorer",
+      "thumbnail": "https://yt3.ggpht.com/g153txjV0QEL4GW4cBA1MMb6TFQnWRq8EwUDB4nsV1TFtdB1mMDiDGL3hGydC_uuWwrOo5pe-g=s88-c-k-c0x00ffffff-no-rj",
+      "uploadsPlaylistId": "UUlm9eE1cp0PYQxv7wVl6q6A",
+      "videoCount": 108,
+      "subscriberCount": 150,
+      "lastUpdated": "2026-07-14T16:45:37.307Z"
     },
     {
       "channelId": "UCLk4p1u1qS91N3B-scYYrgw",
@@ -36,8 +54,8 @@
       "thumbnail": "https://yt3.ggpht.com/T2v50f6Jyxr5W4Rgq36zJV5ZHEJoK26sCLPrt8u9s0ecJuedWFhcgw42MdyvKjOVmgzbVSm3Qw=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UULk4p1u1qS91N3B-scYYrgw",
       "videoCount": 37,
-      "subscriberCount": 11400,
-      "lastUpdated": "2026-07-14T12:01:04.838Z"
+      "subscriberCount": 11500,
+      "lastUpdated": "2026-07-14T16:45:37.756Z"
     },
     {
       "channelId": "UC2Dpv53qE8k4FdAh44EkAjA",
@@ -46,34 +64,34 @@
       "uploadsPlaylistId": "UU2Dpv53qE8k4FdAh44EkAjA",
       "videoCount": 23,
       "subscriberCount": 2560,
-      "lastUpdated": "2026-07-14T12:01:05.126Z"
+      "lastUpdated": "2026-07-14T16:45:38.050Z"
     },
     {
       "channelId": "UC8KL71Zo6-kLnLWkY0zQMIg",
       "title": "Global Country Explorer",
       "thumbnail": "https://yt3.ggpht.com/JxvEMfrKzkOEaPMoaN1Mv8cKA8EaC5jA2CTeNxogulbAWk_q2iYH6A9G9aH4Lc6o6pkrK-Q6pA=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UU8KL71Zo6-kLnLWkY0zQMIg",
-      "videoCount": 47,
+      "videoCount": 48,
       "subscriberCount": 2150,
-      "lastUpdated": "2026-07-14T12:01:06.148Z"
+      "lastUpdated": "2026-07-14T16:45:39.295Z"
     },
     {
       "channelId": "UCwGz-nNoYpXiUIxIDXgsPdQ",
       "title": "The Global Truth",
       "thumbnail": "https://yt3.ggpht.com/HjXWUE8utGk052NDqOHRFbwNysPCO6CBfCDF3hvEChSZHOOxuo3up8I4x-CuEK8tSnDQ0Ykq1w=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UUwGz-nNoYpXiUIxIDXgsPdQ",
-      "videoCount": 28,
-      "subscriberCount": 907,
-      "lastUpdated": "2026-07-14T12:01:06.497Z"
+      "videoCount": 29,
+      "subscriberCount": 922,
+      "lastUpdated": "2026-07-14T16:45:39.579Z"
     },
     {
       "channelId": "UC7Wp1HNhw2UPimYZ6thYU3A",
       "title": "Globe Discovery - NY",
       "thumbnail": "https://yt3.ggpht.com/JJBYg-Ol71Fe91U4gb7Vk7UFayfp0TLL95xOGZyra6gWFDzOOi0K07ao0ItEZGkED9ywY2g0=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UU7Wp1HNhw2UPimYZ6thYU3A",
-      "videoCount": 57,
+      "videoCount": 58,
       "subscriberCount": 1120,
-      "lastUpdated": "2026-07-14T12:01:07.412Z"
+      "lastUpdated": "2026-07-14T16:45:40.533Z"
     }
   ]
 }
