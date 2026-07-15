@@ -1,7 +1,7 @@
 {
   "market": "en",
   "label": "Tiếng Anh",
-  "updatedAt": "2026-07-15T12:56:01.038Z",
+  "updatedAt": "2026-07-15T17:50:35.060Z",
   "channels": [
     {
       "channelId": "UCV0j4t9mwDtp30aNH6-ojBA",
@@ -10,7 +10,16 @@
       "uploadsPlaylistId": "UUV0j4t9mwDtp30aNH6-ojBA",
       "videoCount": 18,
       "subscriberCount": 29,
-      "lastUpdated": "2026-07-15T12:55:55.919Z"
+      "lastUpdated": "2026-07-15T17:50:28.375Z"
+    },
+    {
+      "channelId": "UC-2_kfG4gZ8FwvwPv1yLgZQ",
+      "title": "Everyday Life Abroad",
+      "thumbnail": "https://yt3.ggpht.com/bHv36TuB83cSs00Ko2IOA9mU9xX5Vt3o47pzmx4b42wh05B0QLBVTPey1EYiEH3FdwhSt1aR8Q=s88-c-k-c0x00ffffff-no-rj",
+      "uploadsPlaylistId": "UU-2_kfG4gZ8FwvwPv1yLgZQ",
+      "videoCount": 22,
+      "subscriberCount": 164,
+      "lastUpdated": "2026-07-15T17:50:29.200Z"
     },
     {
       "channelId": "UCFsGgdoZALD77EOlsCMHZHw",
@@ -18,8 +27,17 @@
       "thumbnail": "https://yt3.ggpht.com/I4EuPRLMyj0Ljcgse1qI9_4-95faI8LGaHzG545ktXhWkB8IdxPsRdLIiVYC2UktBW-Pn9xDPw=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UUFsGgdoZALD77EOlsCMHZHw",
       "videoCount": 31,
-      "subscriberCount": 10700,
-      "lastUpdated": "2026-07-15T12:55:56.592Z"
+      "subscriberCount": 10800,
+      "lastUpdated": "2026-07-15T17:50:29.532Z"
+    },
+    {
+      "channelId": "UCikmhtEWMKMKHeMrMmxaW2w",
+      "title": "UnseenDocumentary",
+      "thumbnail": "https://yt3.ggpht.com/83etn7liKbtfTPcf71mUbvV9E4LjceZg5d-VRYRqxSofQYa-eBR45CgbS_uU7bmOSCqW4rSM=s88-c-k-c0x00ffffff-no-rj",
+      "uploadsPlaylistId": "UUikmhtEWMKMKHeMrMmxaW2w",
+      "videoCount": 72,
+      "subscriberCount": 107,
+      "lastUpdated": "2026-07-15T17:50:31.103Z"
     },
     {
       "channelId": "UCVIlAtA-3zGd8cYy1OMtXKw",
@@ -28,16 +46,16 @@
       "uploadsPlaylistId": "UUVIlAtA-3zGd8cYy1OMtXKw",
       "videoCount": 1,
       "subscriberCount": 1,
-      "lastUpdated": "2026-07-15T12:55:58.335Z"
+      "lastUpdated": "2026-07-15T17:50:32.144Z"
     },
     {
       "channelId": "UCLk4p1u1qS91N3B-scYYrgw",
       "title": "Amazing Global Discoveries",
       "thumbnail": "https://yt3.ggpht.com/T2v50f6Jyxr5W4Rgq36zJV5ZHEJoK26sCLPrt8u9s0ecJuedWFhcgw42MdyvKjOVmgzbVSm3Qw=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UULk4p1u1qS91N3B-scYYrgw",
-      "videoCount": 38,
-      "subscriberCount": 11700,
-      "lastUpdated": "2026-07-15T12:55:58.813Z"
+      "videoCount": 39,
+      "subscriberCount": 11800,
+      "lastUpdated": "2026-07-15T17:50:32.580Z"
     },
     {
       "channelId": "UC2Dpv53qE8k4FdAh44EkAjA",
@@ -46,34 +64,34 @@
       "uploadsPlaylistId": "UU2Dpv53qE8k4FdAh44EkAjA",
       "videoCount": 23,
       "subscriberCount": 2580,
-      "lastUpdated": "2026-07-15T12:55:59.094Z"
+      "lastUpdated": "2026-07-15T17:50:32.881Z"
     },
     {
       "channelId": "UC8KL71Zo6-kLnLWkY0zQMIg",
       "title": "Global Country Explorer",
       "thumbnail": "https://yt3.ggpht.com/JxvEMfrKzkOEaPMoaN1Mv8cKA8EaC5jA2CTeNxogulbAWk_q2iYH6A9G9aH4Lc6o6pkrK-Q6pA=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UU8KL71Zo6-kLnLWkY0zQMIg",
-      "videoCount": 48,
+      "videoCount": 49,
       "subscriberCount": 2170,
-      "lastUpdated": "2026-07-15T12:56:00.016Z"
+      "lastUpdated": "2026-07-15T17:50:33.897Z"
     },
     {
       "channelId": "UCwGz-nNoYpXiUIxIDXgsPdQ",
       "title": "The Global Truth",
       "thumbnail": "https://yt3.ggpht.com/HjXWUE8utGk052NDqOHRFbwNysPCO6CBfCDF3hvEChSZHOOxuo3up8I4x-CuEK8tSnDQ0Ykq1w=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UUwGz-nNoYpXiUIxIDXgsPdQ",
-      "videoCount": 29,
-      "subscriberCount": 997,
-      "lastUpdated": "2026-07-15T12:56:00.305Z"
+      "videoCount": 30,
+      "subscriberCount": 1000,
+      "lastUpdated": "2026-07-15T17:50:34.127Z"
     },
     {
       "channelId": "UC7Wp1HNhw2UPimYZ6thYU3A",
       "title": "Globe Discovery - NY",
       "thumbnail": "https://yt3.ggpht.com/JJBYg-Ol71Fe91U4gb7Vk7UFayfp0TLL95xOGZyra6gWFDzOOi0K07ao0ItEZGkED9ywY2g0=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UU7Wp1HNhw2UPimYZ6thYU3A",
-      "videoCount": 57,
+      "videoCount": 58,
       "subscriberCount": 1130,
-      "lastUpdated": "2026-07-15T12:56:01.036Z"
+      "lastUpdated": "2026-07-15T17:50:35.057Z"
     }
   ]
 }
