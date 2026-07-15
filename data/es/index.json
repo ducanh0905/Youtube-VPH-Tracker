@@ -1,7 +1,7 @@
 {
   "market": "es",
   "label": "Tây Ban Nha",
-  "updatedAt": "2026-07-15T17:50:42.519Z",
+  "updatedAt": "2026-07-15T21:33:00.021Z",
   "channels": [
     {
       "channelId": "UC0KbVo6yXvWM_oAzFaCMvGA",
@@ -10,7 +10,7 @@
       "uploadsPlaylistId": "UU0KbVo6yXvWM_oAzFaCMvGA",
       "videoCount": 134,
       "subscriberCount": 92100,
-      "lastUpdated": "2026-07-15T17:50:35.857Z"
+      "lastUpdated": "2026-07-15T21:32:55.982Z"
     },
     {
       "channelId": "UCkahPG8Q74lChyvnk7gt2Cw",
@@ -19,7 +19,7 @@
       "uploadsPlaylistId": "UUkahPG8Q74lChyvnk7gt2Cw",
       "videoCount": 154,
       "subscriberCount": 45500,
-      "lastUpdated": "2026-07-15T17:50:36.861Z"
+      "lastUpdated": "2026-07-15T21:32:57.149Z"
     },
     {
       "channelId": "UCpMvM-kGqhjEHQ9wqOMs2pQ",
@@ -28,7 +28,7 @@
       "uploadsPlaylistId": "UUpMvM-kGqhjEHQ9wqOMs2pQ",
       "videoCount": 162,
       "subscriberCount": 55500,
-      "lastUpdated": "2026-07-15T17:50:37.741Z"
+      "lastUpdated": "2026-07-15T21:32:58.331Z"
     },
     {
       "channelId": "UCLWbXoIfTu5E8HYF4XtDv-Q",
@@ -36,44 +36,8 @@
       "thumbnail": "https://yt3.ggpht.com/SQBP776833gvZEn-0vWO8T4RLP0d8P7qDiHoBdsY8VcZRc1ZJiNMWOojabygkeFJmTlDqzTGFA=s88-c-k-c0x00ffffff-no-rj",
       "uploadsPlaylistId": "UULWbXoIfTu5E8HYF4XtDv-Q",
       "videoCount": 39,
-      "subscriberCount": 6240,
-      "lastUpdated": "2026-07-15T17:50:38.107Z"
-    },
-    {
-      "channelId": "UCQwpgvltYeWvlj3PbHkW2mQ",
-      "title": "Mundo Sin Censura",
-      "thumbnail": "https://yt3.ggpht.com/IJ7uAyFsknHf5vgy_BjwqWlrHb608Yd-LAUuMTZt9UZ67ylOyAD6xQt5JwzBfxjJBJny_FtWrMk=s88-c-k-c0x00ffffff-no-rj",
-      "uploadsPlaylistId": "UUQwpgvltYeWvlj3PbHkW2mQ",
-      "videoCount": 250,
-      "subscriberCount": 452000,
-      "lastUpdated": "2026-07-15T17:50:39.211Z"
-    },
-    {
-      "channelId": "UCNhLUa5wz4ZMnttv_bZHNzQ",
-      "title": "WONDERGLOBE-ES",
-      "thumbnail": "https://yt3.ggpht.com/YBQKtnTuHciYUwGprBaxi4RI4_GKuVw2tPGAWiM3lxvcTNENWCK-EUToaCrP0I6s_5y-qXZ9Rg=s88-c-k-c0x00ffffff-no-rj",
-      "uploadsPlaylistId": "UUNhLUa5wz4ZMnttv_bZHNzQ",
-      "videoCount": 247,
-      "subscriberCount": 14100,
-      "lastUpdated": "2026-07-15T17:50:40.807Z"
-    },
-    {
-      "channelId": "UC_nDm9FNhcv0LBYZIJmawOQ",
-      "title": "Minuto en Foco - Es",
-      "thumbnail": "https://yt3.ggpht.com/JrBexDQaB1Y-Mm3SD78_H8CjAAjkNa8W00NFmWTihVggylajGElsQLadWE866EUivqbAwbSM=s88-c-k-c0x00ffffff-no-rj",
-      "uploadsPlaylistId": "UU_nDm9FNhcv0LBYZIJmawOQ",
-      "videoCount": 222,
-      "subscriberCount": 43200,
-      "lastUpdated": "2026-07-15T17:50:42.192Z"
-    },
-    {
-      "channelId": "UCQFzik5TTOq8wXg6L3J-EsA",
-      "title": "Incré",
-      "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lsIXVlCiN5lpKZzJ3bX1_KK3VlF7GniApPHF7ZzJI9_Mk=s88-c-k-c0x00ffffff-no-rj",
-      "uploadsPlaylistId": "UUQFzik5TTOq8wXg6L3J-EsA",
-      "videoCount": 24,
-      "subscriberCount": 4520,
-      "lastUpdated": "2026-07-15T17:50:42.518Z"
+      "subscriberCount": 6250,
+      "lastUpdated": "2026-07-15T21:32:58.857Z"
     }
   ]
 }
