@@ -1,38 +1,59 @@
-name: Update YouTube stats
+name: Fetch YouTube Data
 
 on:
   schedule:
-    - cron: '7 * * * *' # mỗi giờ, vào phút 7 (lệch khỏi phút 0 — thời điểm tải cao nhất của GitHub Actions, dễ bị delay/skip)
-  workflow_dispatch: {} # cho phép bấm "Run workflow" để chạy ngay (thủ công) trên GitHub
+    - cron: "0 23 * * *" # 23:00 UTC = 06:00 giờ Việt Nam, chạy 1 lần/ngày
+  workflow_dispatch:
+    inputs:
+      force_refresh_comments:
+        description: "Ép lấy lại toàn bộ bình luận + reply (bỏ qua cache)"
+        type: boolean
+        default: false
+      full_channel_history:
+        description: "Lấy TOÀN BỘ video của mỗi kênh (bỏ qua giới hạn ~50 video gần nhất) - tốn nhiều quota hơn"
+        type: boolean
+        default: false
+  push:
+    paths:
+      - "channels.json"
 
 permissions:
   contents: write
 
-concurrency:
-  group: yt-update
-  cancel-in-progress: false
-
 jobs:
-  update:
+  fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: "22"
 
-      - name: Run update script
+      - name: Fetch YouTube data
         env:
+          # Nếu có nhiều key: điền secret YOUTUBE_API_KEYS = "key1,key2" (phân tách bởi dấu phẩy).
+          # Nếu chỉ có 1 key: giữ nguyên secret YOUTUBE_API_KEY như cũ.
+          YOUTUBE_API_KEYS: ${{ secrets.YOUTUBE_API_KEYS }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
-          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
-        run: node scripts/update.mjs
+          MAX_VIDEOS_PER_CHANNEL: "50"
+          FULL_CHANNEL_HISTORY: ${{ github.event.inputs.full_channel_history || 'false' }}
+          MAX_COMMENTS_PER_VIDEO: "100"
+          MAX_REPLIES_PER_COMMENT: "20"
+          COMMENT_ORDER: "relevance"
+          FORCE_REFRESH_COMMENTS: ${{ github.event.inputs.force_refresh_comments || 'false' }}
+        run: node scripts/fetch-data.mjs
 
-      - name: Commit and push if changed
+      - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git diff --staged --quiet || git commit -m "Auto-update YouTube stats [skip ci]"
-          git push
+          git add public/data
+          if git diff --staged --quiet; then
+            echo "Không có gì thay đổi."
+          else
+            git commit -m "chore: cập nhật dữ liệu YouTube $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
